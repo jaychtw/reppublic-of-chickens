@@ -30,5 +30,5 @@ These are implementation limits, not replacements for the five playable mechanic
 - Accessibility automation is a useful check, not a claim of universal accessibility certification.
 - Raster artwork makes the release larger than a vector-only game. All fonts and images ship locally; no external request is needed at runtime when served from the local package.
 - Opening the build through `file://` is unsupported; use an HTTP server.
-- No public deployment is enabled or performed. GitHub Pages instructions are prepared for later explicit authorization.
+- Public release was subsequently authorized and deployed from accepted commit `4ad62e0`. See [deployment and public verification](DEPLOYMENT.md); the existing visual and device-testing limitations remain accepted v1.0 limits.
 - Before any commercial release, complete the quotation review recorded in the GDD and third-party notices.

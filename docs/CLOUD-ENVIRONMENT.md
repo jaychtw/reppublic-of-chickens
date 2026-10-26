@@ -1,6 +1,8 @@
 # Reusable cloud setup
 
-The cloud environment's `install_script` and `start_skill` fields were saved as a configuration draft. This does not execute commands or publish a snapshot. To activate that reusable cloud configuration, review and save the changes in environment settings, then publish the **cloud environment**. This is separate from public game deployment; no website deployment is authorized or enabled.
+The cloud environment's `install_script` and `start_skill` fields were saved as a configuration draft. This does not execute commands or publish a snapshot. To activate that reusable cloud configuration, review and save the changes in environment settings, then publish the **cloud environment**. This is separate from public game deployment, which was subsequently authorized and completed; see [the deployment record](DEPLOYMENT.md).
+
+The release task also saved the additional network domains `api.github.com` and `jaychtw.github.io` in that draft. Turn-scoped network permission enabled the current deployment and verification. Publishing the cloud configuration is only needed to retain those settings for future cloud sessions; it is not a prerequisite for playing the already published game.
 
 The current instance was installed and validated directly. The saved installation script is:
 

@@ -2,7 +2,9 @@
 
 A bilingual, illustrated browser game about caring for a small republic and listening to its rather opinionated chickens. Five playable halls, permanent milestones, and a future that remains deliberately unwritten.
 
-**v1.0 is prepared for local play. Public deployment is not enabled.** Stage A was approved at `35c4298`.
+**v1.0 is deployed and verified: [Play Republic of Chickens](https://jaychtw.github.io/reppublic-of-chickens/).** The user accepted game commit `4ad62e0` and authorized release. Stage A was approved at `35c4298`. The v1.0 project is completed and closed.
+
+[Deployment and public verification record](docs/DEPLOYMENT.md)
 
 [Download the prebuilt game](release/republic-of-chickens-v1.0.zip) · [Test results](docs/TEST-RESULTS.md) · [Gameplay screenshots](docs/SCREENSHOTS.md) · [Visual compromises and limitations](docs/VISUAL-AND-RELEASE-NOTES.md)
 
@@ -64,7 +66,7 @@ All five checks unlock the optional Moment of Truth. Both choices preserve the u
 - [Approved Stage A artwork](art-direction/republic-of-chickens-stage-a.png) and [art brief](art-direction/STAGE-A.md).
 - [Test report](docs/TEST-RESULTS.md), [actual gameplay screenshots](docs/SCREENSHOTS.md), and [visual/release notes](docs/VISUAL-AND-RELEASE-NOTES.md).
 - [Asset and font notices](docs/THIRD-PARTY-NOTICES.md), including the GDD's quotation-review requirement before commercial release.
-- [GitHub Pages preparation](docs/GITHUB-PAGES.md), for use only after explicit deployment authorization.
+- [GitHub Pages deployment](docs/GITHUB-PAGES.md) and [verification record](docs/DEPLOYMENT.md).
 - [Release checksum](release/SHA256SUMS.txt).
 
 The Traditional Chinese title is **雞窩共和國**, overriding any alternate title. The current GitHub repository retains its existing `reppublic-of-chickens` spelling.

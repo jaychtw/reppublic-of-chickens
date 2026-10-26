@@ -1,0 +1,66 @@
+{
+  "status": "deployed and verified",
+  "url": "https://jaychtw.github.io/reppublic-of-chickens/",
+  "acceptedCommit": "4ad62e03ef16242b995105e2e5c0c7caf63b9d73",
+  "workflowCommit": "9aff74157d7c5cf7305080cbb87cf9f5045d0626",
+  "workflowRun": "https://github.com/jaychtw/reppublic-of-chickens/actions/runs/40372417744",
+  "hostedBrowserVerification": "passed: HTTP 200, all five hall routes and reloads, five art assets, debate interaction and persisted zh-TW",
+  "independentHTTPSAssetChecks": [
+    {
+      "file": "index.html",
+      "httpStatus": 200,
+      "matchesAcceptedBuild": true,
+      "sha256": "a3e48c238bfff65602cc4665048d8dc7818f9234178edab1d2a2fe1cf1df1669"
+    },
+    {
+      "file": "favicon.svg",
+      "httpStatus": 200,
+      "matchesAcceptedBuild": true,
+      "sha256": "93f11edbad14da34b22bad7765f55457e4cc3d5bcb135b29d5b6f7f3e3950c3d"
+    },
+    {
+      "file": "assets/index-Bz9Y8Vwu.js",
+      "httpStatus": 200,
+      "matchesAcceptedBuild": true,
+      "sha256": "3e4fe13dd0a922b73525165f3a77979e9a92d67a8430c3f767a46a40f210961c"
+    },
+    {
+      "file": "assets/index-BqxP_84i.css",
+      "httpStatus": 200,
+      "matchesAcceptedBuild": true,
+      "sha256": "ec2938f12cd797f3203e5048d4926e18cbaa0a318e55f5f9137eadf0719700c4"
+    },
+    {
+      "file": "art/republic.png",
+      "httpStatus": 200,
+      "matchesAcceptedBuild": true,
+      "sha256": "3c0d536e85873efd8dd079813a01a77a95baa8af2fd9892a21cc08c7d6b95208"
+    },
+    {
+      "file": "art/citizens.png",
+      "httpStatus": 200,
+      "matchesAcceptedBuild": true,
+      "sha256": "546e14734422d57299b2d0cb5977939448e103d01ce13634257fd8385ec9e6b6"
+    },
+    {
+      "file": "art/residence.png",
+      "httpStatus": 200,
+      "matchesAcceptedBuild": true,
+      "sha256": "5b3466800a9d0ef8d16e9727b1b8659a4fd1904bbabf32a7ba035df017e9d0ab"
+    },
+    {
+      "file": "art/repairs.png",
+      "httpStatus": 200,
+      "matchesAcceptedBuild": true,
+      "sha256": "36b65231b84b44ae9ab12e8c8c6f028ae2ef210c184e2d457c4a7f939588763f"
+    },
+    {
+      "file": "art/crossroads.png",
+      "httpStatus": 200,
+      "matchesAcceptedBuild": true,
+      "sha256": "96f245970e000ed379db44e35e15d8f833d4699a7b01260db0321e88e6c4647b"
+    }
+  ],
+  "publicGameContentChanged": false,
+  "projectStatus": "completed and closed"
+}
