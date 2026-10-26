@@ -1,0 +1,179 @@
+{
+  "version": "1.0.0",
+  "command": "npm ci --no-fund; npm run check",
+  "cleanInstall": "passed",
+  "logic": {
+    "passed": 29,
+    "failed": 0,
+    "skipped": 0
+  },
+  "build": {
+    "typescript": "passed",
+    "productionBuild": "passed",
+    "base": "./"
+  },
+  "browser": {
+    "stats": {
+      "startTime": "2026-10-26T16:48:02.157Z",
+      "duration": 107510.038,
+      "expected": 22,
+      "skipped": 0,
+      "unexpected": 0,
+      "flaky": 0
+    },
+    "chromium": "Chromium 154.0.8037.57 built on Debian GNU/Linux 13 (trixie)",
+    "cases": [
+      {
+        "name": "Complete republic journey in en: five real activities, unlock, both endings, continued play",
+        "project": "desktop",
+        "outcome": "passed",
+        "attempts": 1
+      },
+      {
+        "name": "Complete republic journey in zh-TW: five real activities, unlock, both endings, continued play",
+        "project": "desktop",
+        "outcome": "passed",
+        "attempts": 1
+      },
+      {
+        "name": "Town Hall keeps exact position, supports resume, pause, replay, previous and skip",
+        "project": "desktop",
+        "outcome": "passed",
+        "attempts": 1
+      },
+      {
+        "name": "Memory preview is player-triggered, exactly three active seconds, and fairly paused",
+        "project": "desktop",
+        "outcome": "passed",
+        "attempts": 1
+      },
+      {
+        "name": "Food tokens are finite, can be redistributed, and new layouts remain solvable",
+        "project": "desktop",
+        "outcome": "passed",
+        "attempts": 1
+      },
+      {
+        "name": "Welfare has full keyboard and desktop drag alternatives, with honest first-try scoring",
+        "project": "desktop",
+        "outcome": "passed",
+        "attempts": 1
+      },
+      {
+        "name": "Backup export/import requires confirmation and rejects invalid files without data loss",
+        "project": "desktop",
+        "outcome": "passed",
+        "attempts": 1
+      },
+      {
+        "name": "Corrupt browser data is recoverable and cannot unlock the ending",
+        "project": "desktop",
+        "outcome": "passed",
+        "attempts": 1
+      },
+      {
+        "name": "Localization, reduced motion, mute and repairs survive reload without overflow",
+        "project": "desktop",
+        "outcome": "passed",
+        "attempts": 1
+      },
+      {
+        "name": "All five screens load entirely from local assets with accessible controls",
+        "project": "desktop",
+        "outcome": "passed",
+        "attempts": 1
+      },
+      {
+        "name": "Complete republic journey in en: five real activities, unlock, both endings, continued play",
+        "project": "phone",
+        "outcome": "passed",
+        "attempts": 1
+      },
+      {
+        "name": "Complete republic journey in zh-TW: five real activities, unlock, both endings, continued play",
+        "project": "phone",
+        "outcome": "passed",
+        "attempts": 1
+      },
+      {
+        "name": "Town Hall keeps exact position, supports resume, pause, replay, previous and skip",
+        "project": "phone",
+        "outcome": "passed",
+        "attempts": 1
+      },
+      {
+        "name": "Memory preview is player-triggered, exactly three active seconds, and fairly paused",
+        "project": "phone",
+        "outcome": "passed",
+        "attempts": 1
+      },
+      {
+        "name": "Food tokens are finite, can be redistributed, and new layouts remain solvable",
+        "project": "phone",
+        "outcome": "passed",
+        "attempts": 1
+      },
+      {
+        "name": "Welfare has full keyboard and desktop drag alternatives, with honest first-try scoring",
+        "project": "phone",
+        "outcome": "passed",
+        "attempts": 1
+      },
+      {
+        "name": "Backup export/import requires confirmation and rejects invalid files without data loss",
+        "project": "phone",
+        "outcome": "passed",
+        "attempts": 1
+      },
+      {
+        "name": "Corrupt browser data is recoverable and cannot unlock the ending",
+        "project": "phone",
+        "outcome": "passed",
+        "attempts": 1
+      },
+      {
+        "name": "Localization, reduced motion, mute and repairs survive reload without overflow",
+        "project": "phone",
+        "outcome": "passed",
+        "attempts": 1
+      },
+      {
+        "name": "All five screens load entirely from local assets with accessible controls",
+        "project": "phone",
+        "outcome": "passed",
+        "attempts": 1
+      },
+      {
+        "name": "Static build works below a GitHub Pages repository path and survives hash-route reloads",
+        "project": "desktop",
+        "outcome": "passed",
+        "attempts": 1
+      },
+      {
+        "name": "Static build works below a GitHub Pages repository path and survives hash-route reloads",
+        "project": "phone",
+        "outcome": "passed",
+        "attempts": 1
+      }
+    ]
+  },
+  "audit": {
+    "command": "npm audit --audit-level=low",
+    "vulnerabilities": 0
+  },
+  "screenshots": {
+    "count": 16,
+    "source": "scripts/capture-screenshots.ts",
+    "unlock": "earned by actual play"
+  },
+  "publicDeployment": "not performed",
+  "release": {
+    "archive": "release/republic-of-chickens-v1.0.zip",
+    "bytes": 20802860,
+    "sha256": "b30167ccd42f5b73a1b589ea5dcc67d81c48b648328c24c8dd555d009e09fe8a",
+    "crc": "passed",
+    "matchesBuiltFiles": true,
+    "launcher": "passed",
+    "extractedBrowserSmoke": "passed: overview, food add/return, Chinese toggle/reload, repair atlas and no failed resource responses"
+  }
+}

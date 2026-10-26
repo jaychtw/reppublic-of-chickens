@@ -1,6 +1,6 @@
 # Republic of Chickens — Stage A checkpoint
 
-Status: art-direction proposal; awaiting one user approval before implementation.
+Status: **Approved by the user at commit `35c4298`**. This document preserves the approved Stage A target; see `docs/VISUAL-AND-RELEASE-NOTES.md` for the v1.0 implementation and compromises.
 
 English title: **Republic of Chickens**. Traditional Chinese title: **雞窩共和國**. The user's title override takes precedence over any title in the supplied documents. The supplied handoff is retained unchanged under `handoff/Republic_of_Chickens_Codex_Handoff_v1.0/`.
 
